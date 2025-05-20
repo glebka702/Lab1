@@ -1,5 +1,6 @@
 package com.mlh.mlh.model;
 
+
 public class WikiData {
     private String term;
     private String title;
